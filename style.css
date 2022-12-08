@@ -15,21 +15,3 @@ main .grid-p div {
 .row2:nth-child(odd) {
   background-color: black;
 }
-.row3:nth-child(even) {
-  background-color: black;
-}
-.row4:nth-child(odd) {
-  background-color: black;
-}
-.row5:nth-child(even) {
-  background-color: black;
-}
-.row6:nth-child(odd) {
-  background-color: black;
-}
-.row7:nth-child(even) {
-  background-color: black;
-}
-.row8:nth-child(odd) {
-  background-color: black;
-}
