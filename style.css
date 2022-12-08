@@ -1,0 +1,35 @@
+
+main .grid-p {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+}
+main .grid-p div {
+  border: 1px solid black;
+  /* width: 30px;
+  height: 30px; */
+  padding: 70px;
+}
+.row1:nth-child(even) {
+  background-color: black;
+}
+.row2:nth-child(odd) {
+  background-color: black;
+}
+.row3:nth-child(even) {
+  background-color: black;
+}
+.row4:nth-child(odd) {
+  background-color: black;
+}
+.row5:nth-child(even) {
+  background-color: black;
+}
+.row6:nth-child(odd) {
+  background-color: black;
+}
+.row7:nth-child(even) {
+  background-color: black;
+}
+.row8:nth-child(odd) {
+  background-color: black;
+}
