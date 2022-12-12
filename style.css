@@ -1,4 +1,5 @@
 
+
 main .grid-p {
   display: grid;
   grid-template-columns: repeat(8, 1fr);
@@ -12,6 +13,12 @@ main .grid-p div {
 .row1:nth-child(even) {
   background-color: black;
 }
+.row1:nth-child(odd) {
+  background-color: white;
+}
 .row2:nth-child(odd) {
   background-color: black;
+}
+.row2:nth-child(even) {
+  background-color: white;
 }
